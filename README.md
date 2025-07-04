@@ -35,9 +35,11 @@ It acts as a **digital notice board for students**, where they can:
 ## 🖼️ Screenshots
 
 - **Login Page**
-- **Service List Page**
-- **Add Service Form**
-- **Responsive Navbar**
+- ![img1](https://github.com/Harshwardhan-26/CollegeConnect/blob/main/loginpage.png?raw=true)
+- ****
+- ![img2]()
+- ****
+- ****
 
 ---
 
