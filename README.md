@@ -35,11 +35,21 @@ It acts as a **digital notice board for students**, where they can:
 ## 🖼️ Screenshots
 
 - **Login Page**
-- ![img1](https://github.com/Harshwardhan-26/CollegeConnect/blob/main/loginpage.png?raw=true)
-- ****
-- ![img2]()
-- ****
-- ****
+   ![img1](https://github.com/Harshwardhan-26/CollegeConnect/blob/main/loginpage.png?raw=true)
+- **Main Page**
+ ![img2](https://github.com/Harshwardhan-26/CollegeConnect/blob/main/mainpage.png?raw=true
+)
+- **My Listings Tab**
+ ![img3](https://github.com/Harshwardhan-26/CollegeConnect/blob/main/mylistings.png?raw=true
+)
+- **Browse Tab**
+ ![img4](https://github.com/Harshwardhan-26/CollegeConnect/blob/main/Screenshot_4-7-2025_23283_steady-chimera-e872af.netlify.app.jpeg?raw=true
+)
+- **Post Service**
+ ![img5](https://github.com/Harshwardhan-26/CollegeConnect/blob/main/Screenshot_4-7-2025_233548_steady-chimera-e872af.netlify.app.jpeg?raw=true
+)
+  - **Pricing**
+ ![img6](https://github.com/Harshwardhan-26/CollegeConnect/blob/main/Screenshot_4-7-2025_233619_steady-chimera-e872af.netlify.app.jpeg?raw=true)
 
 ---
 
@@ -123,10 +133,12 @@ college-connect/
 ├── package.json             # Dependencies and scripts
 └── README.md                # Project info
 ```
-🙌 Contribution
+#🙌 Contribution#
 Want to improve this project or add a new feature?
 Feel free to fork, clone, and raise a pull request.
-📄 License
+
+#📄 License#
 This project is open source and available under the MIT License.
-🔗 Connect
+
+#🔗 Connect#
 [LinkedIn](https://www.linkedin.com/in/harshwardhan-goyal-4aa899278)
